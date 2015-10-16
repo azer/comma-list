@@ -1,6 +1,6 @@
 {
   "name": "comma-list",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Parse comma separated list in a string",
   "main": "index.js",
   "scripts": {
