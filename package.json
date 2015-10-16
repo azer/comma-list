@@ -1,0 +1,23 @@
+{
+  "name": "comma-list",
+  "version": "0.0.0",
+  "description": "Parse comma separated list in a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "comma",
+    "parse",
+    "string"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/comma-list.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD",
+  "dependencies": {
+    "prova": "^2.1.2"
+  }
+}
